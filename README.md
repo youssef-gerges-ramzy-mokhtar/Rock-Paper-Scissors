@@ -2,7 +2,7 @@
 A webpage to play Rock Paper Scissors against the Computer
 
 ## Webpage Link
-You can access this webpage through the following link: https://rock-paper-scissors-1446c.firebaseapp.com/
+You can access this webpage through the following link: https://rock-paper-scissors-1446c.web.app/
 
 ## Screenshots
 
